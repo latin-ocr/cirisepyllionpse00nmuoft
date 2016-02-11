@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./cirisepyllionpse00nmuoft_0124.png"; bbox 0 0 1988 3159; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 539 1188 1553 1297">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 539 1188 1553 1297">
+     <span class='ocr_line' id='line_1_1' title="bbox 540 1188 1546 1233; baseline 0.002 -12"><span class='ocrx_word' id='word_1_1' title='bbox 540 1189 584 1221; x_wconf 88' lang='lat' dir='ltr'>In</span> <span class='ocrx_word' id='word_1_2' title='bbox 612 1189 719 1221; x_wconf 84' lang='lat' dir='ltr'>tenui</span> <span class='ocrx_word' id='word_1_3' title='bbox 744 1188 862 1229; x_wconf 81' lang='lat' dir='ltr'>labor,</span> <span class='ocrx_word' id='word_1_4' title='bbox 891 1191 927 1222; x_wconf 80' lang='lat' dir='ltr'>at</span> <span class='ocrx_word' id='word_1_5' title='bbox 954 1189 1080 1222; x_wconf 76' lang='lat' dir='ltr'><strong>tenuis</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1108 1200 1184 1222; x_wconf 88' lang='lat' dir='ltr'>non</span> <span class='ocrx_word' id='word_1_7' title='bbox 1211 1189 1346 1232; x_wconf 83' lang='lat' dir='ltr'>gloria,</span> <span class='ocrx_word' id='word_1_8' title='bbox 1374 1190 1406 1222; x_wconf 86' lang='lat' dir='ltr'>si</span> <span class='ocrx_word' id='word_1_9' title='bbox 1433 1201 1546 1233; x_wconf 86' lang='lat' dir='ltr'>quem</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 539 1253 1553 1297; baseline 0.002 -12"><span class='ocrx_word' id='word_1_10' title='bbox 539 1253 708 1286; x_wconf 84' lang='lat' dir='ltr'>Numina</span> <span class='ocrx_word' id='word_1_11' title='bbox 734 1253 827 1286; x_wconf 79' lang='lat' dir='ltr'>laeva</span> <span class='ocrx_word' id='word_1_12' title='bbox 854 1254 984 1286; x_wconf 83' lang='lat' dir='ltr'><strong>sinunt</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1013 1253 1194 1297; x_wconf 75' lang='lat' dir='ltr'><strong>auditque</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1221 1256 1378 1286; x_wconf 79' lang='lat' dir='ltr'>vocatus</span> <span class='ocrx_word' id='word_1_15' title='bbox 1405 1253 1553 1297; x_wconf 89' lang='lat' dir='ltr'><strong>Apollo.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1288 1335 1797 1380">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1288 1335 1797 1380">
+     <span class='ocr_line' id='line_1_3' title="bbox 1288 1335 1797 1380; baseline 0.004 -11"><span class='ocrx_word' id='word_1_16' title='bbox 1288 1335 1401 1379; x_wconf 84' lang='lat' dir='ltr'>Verg.</span> <span class='ocrx_word' id='word_1_17' title='bbox 1429 1337 1566 1380; x_wconf 84' lang='lat' dir='ltr'><strong>Georg.</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 1593 1336 1659 1371; x_wconf 80' lang='lat' dir='ltr'>IV.</span> <span class='ocrx_word' id='word_1_19' title='bbox 1685 1336 1797 1371; x_wconf 86' lang='lat'>6—7.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
